@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Triathlon Saint Maur</title>
-    <link>https://example.org/</link>
+    <link>https://bubibiman.github.io/</link>
     <description>Recent content on Triathlon Saint Maur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 22:39:24 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 22:39:24 +0200</lastBuildDate><atom:link href="https://bubibiman.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lancement</title>
-      <link>https://example.org/2023/06/lancement/</link>
+      <link>https://bubibiman.github.io/2023/06/lancement/</link>
       <pubDate>Mon, 12 Jun 2023 22:39:24 +0200</pubDate>
       
-      <guid>https://example.org/2023/06/lancement/</guid>
+      <guid>https://bubibiman.github.io/2023/06/lancement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contacts</title>
-      <link>https://example.org/page/contacts/</link>
+      <link>https://bubibiman.github.io/page/contacts/</link>
       <pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
       
-      <guid>https://example.org/page/contacts/</guid>
+      <guid>https://bubibiman.github.io/page/contacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrainements</title>
-      <link>https://example.org/page/entrainements/</link>
+      <link>https://bubibiman.github.io/page/entrainements/</link>
       <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
       
-      <guid>https://example.org/page/entrainements/</guid>
+      <guid>https://bubibiman.github.io/page/entrainements/</guid>
       <description>Choisy :
- Lundi de 18h30 à 20h Mercredi de 18h30 à 20h Samedi de 9h à 11h  https://triathlon94.fr/ses-actions/choisy-nage-eau-libre-triathlon/
+Lundi de 18h30 à 20h Mercredi de 18h30 à 20h Samedi de 9h à 11h https://triathlon94.fr/ses-actions/choisy-nage-eau-libre-triathlon/
 S&amp;rsquo;enregistrer :
 https://triathlon94.fr/se-declarer-present-a-choisy/</description>
     </item>
     
     <item>
       <title>My First Post 2</title>
-      <link>https://example.org/2023/06/my-first-post-2/</link>
+      <link>https://bubibiman.github.io/2023/06/my-first-post-2/</link>
       <pubDate>Mon, 05 Jun 2023 09:04:02 +0200</pubDate>
       
-      <guid>https://example.org/2023/06/my-first-post-2/</guid>
+      <guid>https://bubibiman.github.io/2023/06/my-first-post-2/</guid>
       <description>Première AG pour le club</description>
     </item>
     
     <item>
       <title>My First Post 1</title>
-      <link>https://example.org/2023/06/my-first-post-1/</link>
+      <link>https://bubibiman.github.io/2023/06/my-first-post-1/</link>
       <pubDate>Sun, 04 Jun 2023 22:12:29 +0200</pubDate>
       
-      <guid>https://example.org/2023/06/my-first-post-1/</guid>
+      <guid>https://bubibiman.github.io/2023/06/my-first-post-1/</guid>
       <description>Première plongée à la base de Choisy pour le club</description>
     </item>
     
