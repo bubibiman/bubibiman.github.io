@@ -63,7 +63,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background: white;
+  background: #2997eb;
   font-family: "Open Sans", sans-serif;
   font-size: 1.6rem;
   line-height: 1.9em;
@@ -78,11 +78,11 @@ body.pushed {
 h1,
 h2,
 h3 {
-  color: #fff;
+  color: #010c3b;
 }
 
 h4 {
-  color: #000;
+  color: white;
 }
 
 h5,
@@ -91,7 +91,7 @@ h6 {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
   line-height: 1.45em;
-  color: #fff;
+  color: #010c3b;
 }
 
 h1,
@@ -142,11 +142,11 @@ dl {
 
 a, a:hover, a:active, a:visited {
   cursor: pointer;
-  color: #2997eb;
+  color: #010c3b;
   text-decoration: none;
 }
 a:hover {
-  color: #2997eb;
+  color: #010c3b;
   text-decoration: underline;
 }
 
@@ -164,9 +164,6 @@ table th {
 }
 table td {
   padding: 5px 10px;
-}
-table tr:nth-child(2n) {
-  background: #f7f8f8;
 }
 
 hr {
@@ -207,7 +204,7 @@ code {
 }
 
 blockquote {
-  border-left: 3px solid #fff;
+  border-left: 3px solid #010c3b;
   padding: 0 15px;
   font-style: italic;
   margin: 1.5em 0 0;
@@ -295,7 +292,7 @@ pre.code-highlight > code {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #010c3b;
+  background: white;
   text-align: center;
   line-height: 100%;
   overflow-y: auto;
@@ -308,7 +305,7 @@ pre.code-highlight > code {
   top: -1000px;
   display: block;
   background: #2997eb;
-  max-width: 400px;
+  max-width: 500px;
   margin: 15px auto;
   border-radius: 3px;
   padding: 30px 0;
@@ -349,7 +346,7 @@ pre.code-highlight > code {
   font-size: 1.6rem;
   line-height: 1.9em;
   font-weight: 400;
-  color: #fff;
+  color: #010c3b;
 }
 
 @media only screen and (max-width : 767px) {
@@ -669,11 +666,11 @@ pre.code-highlight > code {
   display: block;
   width: 100%;
   height: 55px;
-  background: #fff;
+  background: #010c3b;
   position: fixed;
   top: 0;
   border: 1px solid #eef2f8;
-  color: #010c3b;
+  color: white;
   z-index: 20;
   transition: transform 0.25s ease-in-out;
   -webkit-transition: -webkit-transform 0.25s ease-in-out;
@@ -693,7 +690,7 @@ pre.code-highlight > code {
   display: block;
   width: 30px;
   height: 30px;
-  color: #010c3b;
+  color: white;
   transition: transform 0.25s ease-in-out;
   -webkit-transition: -webkit-transform 0.25s ease-in-out;
 }
@@ -707,7 +704,7 @@ pre.code-highlight > code {
   position: absolute;
   top: 12.5px;
   right: 20px;
-  color: #010c3b;
+  color: white;
 }
 #header .header-title {
   text-align: center;
@@ -718,11 +715,11 @@ pre.code-highlight > code {
   -webkit-transition: -webkit-transform 0.25s ease-in-out;
 }
 #header .header-title .header-title-link {
-  color: #010c3b;
+  color: white;
   font-weight: normal;
 }
 #header .header-title .header-title-link:hover, #header .header-title .header-title-link:active {
-  color: #000209;
+  color: #e6e6e6;
   text-decoration: none;
 }
 #header.header-up {
@@ -816,7 +813,7 @@ pre.code-highlight > code {
 #main {
   display: block;
   min-height: 100%;
-  background: #010c3b;
+  background: white;
   transition: transform 0.25s ease-in-out;
   -webkit-transition: -webkit-transform 0.25s ease-in-out;
 }
@@ -967,7 +964,7 @@ pre.code-highlight > code {
   overflow: auto;
 }
 #sidebar .sidebar-profile {
-  color: #2997eb;
+  color: #010c3b;
   text-align: center;
   padding-top: 18px;
   margin-bottom: 15px;
@@ -978,7 +975,7 @@ pre.code-highlight > code {
 }
 #sidebar .sidebar-profile .sidebar-profile-name {
   font-size: 1.1em;
-  color: #2997eb;
+  color: #010c3b;
 }
 #sidebar ul.sidebar-buttons {
   padding: 0;
@@ -991,13 +988,13 @@ pre.code-highlight > code {
   line-height: 45px;
 }
 #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link {
-  color: #2997eb;
+  color: #010c3b;
   display: block;
   height: 100%;
 }
 #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:hover, #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:active {
   text-decoration: none;
-  color: #cce6fa;
+  color: #0430eb;
 }
 #sidebar ul.sidebar-buttons:first-child {
   margin-top: 5px;
@@ -1448,7 +1445,7 @@ pre.code-highlight > code {
 #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-location {
     font-weight: 400;
     font-size: 1.6rem;
-    color: #2997eb;
+    color: #010c3b;
   }
   #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-job,
 #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-location {
@@ -1624,7 +1621,7 @@ pre.code-highlight > code {
 #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-location {
     font-weight: 400;
     font-size: 1.6rem;
-    color: #2997eb;
+    color: #010c3b;
   }
   #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-job,
 #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-location {
@@ -1852,7 +1849,7 @@ pre.code-highlight > code {
 }
 
 .archive .archive-title {
-  color: #fff;
+  color: #010c3b;
 }
 .archive .archive-title:hover {
   text-decoration: underline;
@@ -1862,7 +1859,7 @@ pre.code-highlight > code {
 }
 .archive .archive-posts .archive-post .archive-post-title {
   margin-left: 10px;
-  color: #fff;
+  color: #010c3b;
 }
 .archive .archive-posts .archive-post .archive-post-title:hover {
   text-decoration: underline;
@@ -2196,7 +2193,7 @@ figure.highlight .line,
   width: 100%;
   border: none;
   outline: none;
-  color: #fff;
+  color: #010c3b;
   font-weight: 300;
 }
 .form-control:hover, .form-control:focus {
@@ -2451,7 +2448,7 @@ a.fancybox {
   color: #2997eb;
 }
 .media-content {
-  color: #fff;
+  color: #010c3b;
 }
 
 .modal-container {
@@ -2496,7 +2493,7 @@ a.fancybox {
   position: absolute;
   top: 9px;
   right: 15px;
-  color: #fff;
+  color: #010c3b;
   cursor: pointer;
 }
 
@@ -2578,7 +2575,7 @@ a.fancybox {
   text-rendering: optimizelegibility;
   letter-spacing: -0.3px;
   font-family: "Merriweather", serif;
-  color: #fff;
+  color: #010c3b;
   margin-top: 20px;
   font-weight: 400;
   overflow: hidden;
@@ -2754,7 +2751,7 @@ a.fancybox {
   margin: 1.5em 0 1.5em 35px;
 }
 .pullquote.blur {
-  background-color: white;
+  background-color: #5373fc;
 }
 
 .post-header .post-title {
@@ -2959,7 +2956,7 @@ a.fancybox {
 }
 .postShorten-group .postShorten {
   margin-top: 15px;
-  border-bottom: 1px solid #eef2f8;
+  border-bottom: 2px solid #010c3b;
 }
 
 .postShorten {
@@ -3004,7 +3001,7 @@ a.fancybox {
   text-rendering: optimizelegibility;
   letter-spacing: -0.3px;
   font-family: "Merriweather", serif;
-  color: #fff;
+  color: #010c3b;
   font-weight: 400;
   overflow: hidden;
   -webkit-hypens: auto;
@@ -3042,14 +3039,14 @@ a.fancybox {
   }
   .postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img {
     display: block;
-    width: 140px;
-    height: 140px;
+    width: 280px;
+    height: 280px;
     object-fit: cover;
     overflow: hidden;
   }
   .postShorten.postShorten--thumbnailimg-right .postShorten-wrap {
     float: left;
-    width: calc(100% - 140px - 20px);
+    width: calc(100% - 280px - 20px);
   }
 
   .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg {
@@ -3058,14 +3055,14 @@ a.fancybox {
   }
   .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
     display: block;
-    width: 140px;
-    height: 140px;
+    width: 280px;
+    height: 280px;
     object-fit: cover;
     overflow: hidden;
   }
   .postShorten.postShorten--thumbnailimg-left .postShorten-wrap {
     float: right;
-    width: calc(100% - 140px - 20px);
+    width: calc(100% - 280px - 20px);
   }
 
   .postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg {
@@ -3088,7 +3085,7 @@ a.fancybox {
   .postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg img {
     width: 100%;
     height: auto;
-    max-height: 250px;
+    max-height: 500px;
     object-fit: cover;
   }
 }
@@ -3144,7 +3141,7 @@ a.fancybox {
   top: 15px;
   right: 15px;
   font-size: 20px;
-  color: #fff;
+  color: #010c3b;
   cursor: pointer;
 }
 
@@ -3335,7 +3332,7 @@ a.tag--small,
 }
 
 .text-color-base {
-  color: #fff !important;
+  color: #010c3b !important;
 }
 
 .text-color-light {
@@ -3343,7 +3340,7 @@ a.tag--small,
 }
 
 .text-color-link {
-  color: #2997eb !important;
+  color: #010c3b !important;
 }
 
 .font-merryweather {
@@ -3506,7 +3503,7 @@ a.tag--small,
   position: absolute;
   top: 15px;
   left: 15px;
-  color: #fff;
+  color: #010c3b;
 }
 #algolia-search-modal .media-content {
   font-size: 0.95em;
@@ -3531,7 +3528,7 @@ a.tag--small,
 }
 #algolia-search-modal .results-count {
   line-height: 50px;
-  color: #fff;
+  color: #010c3b;
 }
 #algolia-search-modal .searchby-algolia {
   position: absolute;
