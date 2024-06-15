@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on TSM</title>
+    <link>https://hugo-profile.netlify.app/contacts/</link>
+    <description>Recent content in Contacts on TSM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2023 22:31:24 +0200</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/contacts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
