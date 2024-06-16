@@ -4,8 +4,9 @@
     <title>Image Gallery on TSM</title>
     <link>https://hugo-profile.netlify.app/gallery/</link>
     <description>Recent content in Image Gallery on TSM</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

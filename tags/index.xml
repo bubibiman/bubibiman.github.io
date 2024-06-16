@@ -4,17 +4,16 @@
     <title>Tags on TSM</title>
     <link>https://hugo-profile.netlify.app/tags/</link>
     <description>Recent content in Tags on TSM</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 22:31:24 +0200</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 22:31:24 +0200</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>adresse</title>
+      <title>Adresse</title>
       <link>https://hugo-profile.netlify.app/tags/adresse/</link>
-      <pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hugo-profile.netlify.app/tags/adresse/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

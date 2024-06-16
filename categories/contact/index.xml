@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>contact on TSM</title>
+    <title>Contact on TSM</title>
     <link>https://hugo-profile.netlify.app/categories/contact/</link>
-    <description>Recent content in contact on TSM</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Contact on TSM</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 22:31:24 +0200</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/categories/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 22:31:24 +0200</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/categories/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contacts</title>
       <link>https://hugo-profile.netlify.app/contacts/</link>
       <pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
-      
       <guid>https://hugo-profile.netlify.app/contacts/</guid>
-      <description>Club de Triathlon de Saint Maur des fossés (94100). Club familial, participatif et collaboratif
-Formulaire Lien vers le formulaire de contact
-Prenom et Nom* Tel Mobile* Email* Date de naissance Comment tu nous a connu ?* --Please choose an option-- Affiche à la piscine de Saint Maur Facebook Instagram Bouche à oreille Un adhérent du club Site de la FFTRI Site de la Ligue Ile de France de Triathlon Site du Comité Départemental 94 du Triathlon Journée des associations Autre Question* Peux tu te présenter, ce que tu cherches, ton expérience triathlon (débutant, expert), etc.</description>
+      <description>Club de Triathlon de Saint Maur des fossés (94100). Club familial, participatif et collaboratif&#xA;Formulaire Lien vers le formulaire de contact&#xA;Prenom et Nom* Tel Mobile* Email* Date de naissance Comment tu nous a connu ?* --Please choose an option-- Affiche à la piscine de Saint Maur Facebook Instagram Bouche à oreille Un adhérent du club Site de la FFTRI Site de la Ligue Ile de France de Triathlon Site du Comité Départemental 94 du Triathlon Journée des associations Autre Question* Peux tu te présenter, ce que tu cherches, ton expérience triathlon (débutant, expert), etc.</description>
     </item>
-    
   </channel>
 </rss>
